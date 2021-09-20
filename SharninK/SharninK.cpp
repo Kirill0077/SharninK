@@ -11,7 +11,6 @@ int main()
     // ввод символа и его проверка
     cout << "Vvedite simvol s";
     cin >> s;
-    system("pause");
     y = s * 2;
     cout << "y=s*2\n" << "y=" << y;
     return 0;
